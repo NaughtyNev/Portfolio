@@ -5,6 +5,5 @@ I have created a personal portfolio website. Here is the link to my portfolio ht
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="![image](https://github.com/user-attachments/assets/9bbf6147-4e47-4391-a93c-46aa6397e11d)
-"/>
+<img src="![image](https://github.com/user-attachments/assets/19f9a3d2-61c2-461a-981b-14fd6b167909)"/>
 </p>
